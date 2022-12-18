@@ -6,3 +6,6 @@ yarn add @mui/icons-material
 
 ## Redux instalaciones 
 yarn add @reduxjs/toolkit react-redux
+
+## Firebase
+Version utilizada 9.8.1
